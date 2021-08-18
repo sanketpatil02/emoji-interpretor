@@ -2,17 +2,17 @@ import React, { useState } from "react";
 import "./styles.css";
 
 var emojiDictionary = {
-  "😉": "Winking Face",
-  "😌": "Relieved Face",
-  "😍": "Smiling Face With Heart-Eyes",
-  "🤪": "Crazy Face",
-  "🤩": "Smirking Face With Starry Eyes",
-  "😒": "Unamused Face",
-  "😕": "Confused Face",
-  "🤔": "Thinking Face",
-  "😈": "Smiling Face With Horns",
-  "❤": "Love",
-  "😂": "Laughing"
+  "🍛": "Curry Rice",
+  "🥔": "Potato",
+  "🥚": "Egg",
+  "🍇": "Grapes",
+  "🍄": "Mushroom",
+  "🍖": "Meat on Bone",
+  "🍕": "Pizza",
+  "🚩": "Triangular Flag",
+  "🏁": "Chequered Flag",
+  "🎾": "Tennis",
+  "🏏": "Cricket Game"
 };
 
 var emojis = Object.keys(emojiDictionary);
